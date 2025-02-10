@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+main h1 {
+ border: 10 px solid green;   
+}
+
+header {
+ background-color: coral;   
+}
+main{
+  background-color: cornflowerblue;  
+}
+
+footer{
+background-color: burlywood;
+}
